@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/relatorios")
+@RequestMapping("/relatorios")
 // A ANOTAÇÃO @CrossOrigin FOI REMOVIDA DESTA LINHA
 public class RelatorioController {
 
